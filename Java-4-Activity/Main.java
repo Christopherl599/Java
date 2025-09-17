@@ -15,13 +15,16 @@ class Main {
    
     int student_age = 17;
     System.out.println(student_age);
+    System.out.println("Student's age is " + student_age);
 
 /*  Challenge 2:
     1) temperature 
     2) student's GPA
     3) growth rate of your investment
 */
-
+    double temperature = 67.41;
+    System.out.println(temperature);
+    System.out.println("The temperature in fahrenheit is " + temperature);
 
 /*  Challenge 3:
     1) Student's last name 
